@@ -1,4 +1,4 @@
-# sine-visual
+# Sine Visualizer App
 
 This is a simple python pygame application to visualize sum of sines.
 It is very basic with polish and works by typing commands from the command prompt.
